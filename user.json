@@ -1,0 +1,16 @@
+[{
+    "Name": "Ananya",
+    "Branch": "information technology",
+    "Interests": ["swimming", "travelling"],
+    "DOB": "2002-03-23"
+}, {
+    "Name": "Dwitrisha",
+    "Branch": "information technology",
+    "Interests": ["painting", "swimming"],
+    "DOB": "2000-10-21"
+}, {
+    "name": "Tinku",
+    "branch": "electronics and communication eng",
+    "interests": ["reading", "dancing"],
+    "DOB": "2000-09-14"
+}]
